@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: url('image/bghome2.jpg') no-repeat;
+            background-size: cover;
+            background-position: center;
+            animation: transitionIn 0.75s;
+        }
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 20px 100px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 99;
+            text-shadow: 1px 1px 2px #B0C4DE;
+
+        }
+        .judul {
+            font-size: 2em;
+            font-weight: 200;
+            color: #fff;
+            user-select: none;
+            /*text-align: center;*/
+        }
+        .wrapper {
+            width: 800px;
+            height: 450px;
+            background: transparent;
+            border: 2px solid rgba(255, 255, 255, .5);
+            border-radius: 20px;
+            backdrop-filter: blur(20px);
+            box-shadow: 0 0 30px rgba(0, 0, 0, .5);
+            /*display: flex;*/
+            /*justify-content: center;*/
+            /*align-items: center;*/
+            overflow: hidden;
+            
+            transition: transform .5s ease, height .2s ease;
+        }
+        .wrapper.active {
+            transform: scale(1);
+        }
+        .wrapper td {
+            /*position: static;*/
+            width: 30px;
+            height: 40px;
+            margin-right: 20px;
+            font-size: 1em;
+            color: white;
+            font-weight: 500;
+            pointer-events: none;
+        }
+        .wrapper .td {
+            width: 40px;
+        }
+        .wrapper tr {
+            height: 30px;
+        }
+        .wrapper table {
+            width: 800px;
+            margin-top: 3%;
+            margin-left: 6%;
+            padding: 0px;
+            
+        }
+        .logo {
+            width: 50px;
+            height: 50px;
+        }
+        .hidden {
+            display: none;
+        }
+        .icon-back ion-icon {
+            font-size : 40px;
+            color: white;
+        }
+        ion-icon:hover {
+            color: black;
+        }
+
+        @keyframes transitionIn {
+            from {
+                opacity : 0;
+                transform: rotateX(-10deg);
+            }
+
+            to {
+                opacity : 1;
+                transform: rotateX(0deg);
+            }
+        }
