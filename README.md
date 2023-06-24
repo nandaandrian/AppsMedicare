@@ -48,7 +48,7 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://ivesvh.com"><img src="CSS/image/me.jpeg" width="100px;" alt="Nanda Andrian Pratama"/><br /><sub><b>Nanda Andrian Pratama</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻 </a><a href="#tool-CompuIves" title="Tools">🔧<h6>Developers & web Apss</h6></a></td> </td>
+    <td align="center"><a href="http://ivesvh.com"><img src="CSS/image/WhatsApp Image 2023-06-24 at 14.08.35.jpeg" width="100px;" alt="Nanda Andrian Pratama"/><br /><sub><b>Nanda Andrian Pratama</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻 </a><a href="#tool-CompuIves" title="Tools">🔧<h6>Developers & web Apss</h6></a></td> </td>
     <td align="center"><a href="http://donavon.com"><img src="CSS/image/andit.jpeg" width="100px;" alt="Anditya triantara"/><br /><sub><b>Anditya Triantara</b></sub></a><br /><a href="#blog-CompuIves" title="Blogposts">📝 <h6>analysis & Rancangan</h6></a></td>
     <td align="center"><a href="http://www.jeffallen.io/"><img src="CSS/image/febby.jpeg" width="100px;" alt="Febby Maouboi"/><br /><sub><b>Febby Mauoboi</b></sub></a><br /><a href="#blog-CompuIves" title="Blogposts">📝 <h6>analysis & Rancangan</h6></a></td></td>
     <td align="center"><a href="https://github.com/bengummer"><img src="https://avatars0.githubusercontent.com/u/1089897?v=3" width="100px;" alt="Haitil Boel Addin"/><br /><sub><b>Haitil Boel Addin</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=bengummer" title="Code">💻</a></td>
